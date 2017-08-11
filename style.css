@@ -1,0 +1,73 @@
+body{
+  background-color: black;
+  font-size: 24px;
+  color: white;
+}
+input
+{
+  font-size: 16px;
+  padding-top: 1%;
+  margin-top: 1%;
+  border-radius: 3px;
+  width: 80%;
+}
+input:focus{
+border-color: orange;
+}
+select:focus{
+  border-color: orange;
+
+}
+select{
+  width: 80%;
+
+  font-size: 16px;
+}
+p{
+  font-size: 8px;
+
+}
+.btn{
+  -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    font-size: 12px;
+    text-decoration: none;
+    color: initial;
+}
+#login
+{
+
+    margin-left: 35%;
+    margin-top: 5%;
+    width : 30%;
+    text-align: center;
+    box-shadow: 10px 10px 5px black;
+}
+#login:hover{
+
+}
+button {
+background-color: black;
+border: none;
+color: white;
+padding: 8px 16px;
+text-align: center;
+text-decoration: none;
+border: 2px solid white;
+display: inline-block;
+font-size: 12px;
+margin: 4px 2px;
+-webkit-transition-duration: 0.4s;
+transition-duration: 0.4s;
+cursor: pointer;
+width: 80%;
+}
+
+button:hover {
+background-color: #e95420;
+border: 2px solid black;
+
+color: black;
+
+}
