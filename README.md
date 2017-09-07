@@ -1,5 +1,5 @@
 # Meetutu
-This is web application.In this application any teacher and student can register it helps in finding students to teacher similarly vice versa.
+This is web application.In this application any teacher and student can register it helps in finding students to teacher similarly vice versa
 
  
  # 1. Open Project Folder.
